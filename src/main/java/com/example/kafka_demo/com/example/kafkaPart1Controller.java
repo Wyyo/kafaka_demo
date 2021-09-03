@@ -7,5 +7,6 @@ package com.example.kafka_demo.com.example;
 public class kafkaPart1Controller {
     public static void main(String[] args) {
         System.out.println("part1-1");
+        System.out.println("part1-2");
     }
 }
