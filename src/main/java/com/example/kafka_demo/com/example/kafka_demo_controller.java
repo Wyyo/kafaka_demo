@@ -17,5 +17,6 @@ public class kafka_demo_controller {
         System.out.println("bo2");
         System.out.println("master");
         System.out.println("dev2.1");
+        System.out.println("dev2.0");
     }
 }
