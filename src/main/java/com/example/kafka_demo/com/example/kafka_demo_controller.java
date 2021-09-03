@@ -18,5 +18,6 @@ public class kafka_demo_controller {
         System.out.println("master");
         System.out.println("dev2.1");
         System.out.println("dev2.0");
+        System.out.println("dev2.1是dev2下的子目录");
     }
 }
