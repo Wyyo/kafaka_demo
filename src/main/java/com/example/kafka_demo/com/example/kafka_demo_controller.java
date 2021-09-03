@@ -15,5 +15,6 @@ public class kafka_demo_controller {
         System.out.println("热部署？");
         System.out.println("boyibo");
         System.out.println("bo2");
+        System.out.println("master");
     }
 }
